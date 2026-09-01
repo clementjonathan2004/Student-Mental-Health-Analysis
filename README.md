@@ -47,7 +47,7 @@ The project followed these main steps:
 ## Dashboard
 
 The interactive Power BI dashboard provides a visual overview of student mental health indicators, including anxiety and depression.
-
+![Student Mental Health Dashboard](Power%20BI/Dashboard%20Screenshot.png)
 ## 6. Key Insights
 
 The analysis produced the following key findings:
